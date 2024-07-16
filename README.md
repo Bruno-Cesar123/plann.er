@@ -1,4 +1,4 @@
-<h1 align="center">planne.er</h1>
+<h1 align="center">plann.er</h1>
 
 <p align="center">
   <a href="#-descricao">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 
 ## 📜 Descrição
 
-- Projeto para agendamento de viagens.
+- Projeto para agendamento de viagens e atividades.
 
 ## Demonstração
 
